@@ -1,0 +1,27 @@
+nav{display: flex;
+  background-color: #1f1a1a;
+  
+}
+nav ul {display: flex;
+  list-style-type: none;
+  
+}
+
+li {
+  float: right;
+}
+
+nav ul li a { text-decoration: none;
+  text-transform: uppercase;
+  padding: 9px 15px;
+ transition: 0.3s;
+  color: rgb(27, 165, 184);
+  height: 15px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+nav ul li a:hover{background-color: white;
+}
+nav ul img{width: 20px;
+}

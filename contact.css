@@ -1,0 +1,23 @@
+section{
+    float: left;
+    width: 30%;
+    background-color: white;
+    height: 300px;
+    
+}
+article{
+    text-align:left ;
+    font-size: 20px;
+    background-color: rgb(195, 195, 221);
+    box-sizing: border-box;
+    border-color: rgb(247, 245, 242);
+    border-radius: 5px;
+    
+}
+article iframe{float: right;}
+section article .cs{
+    box-sizing: border-box;
+    border-color: blue;
+    width: 15px;
+
+}
